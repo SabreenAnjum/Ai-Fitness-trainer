@@ -1,0 +1,7 @@
+download and install these to make sure it will learn properly
+
+opencv-python==4.5.5.64
+tensorflow==2.8.0
+keras==2.8.0
+mediapipe==0.8.9
+scipy==1.8.0
